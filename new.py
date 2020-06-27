@@ -69,7 +69,7 @@ def main():
     
 # Front Page -----------------------------------------------------------------------       
     st.markdown("<body style='background-color:white;'><h1 style='text-align: center; color: blue;'>REAL TIME  COVID-19 ANALYSIS</h1></body>", unsafe_allow_html=True)
-    img = Image.open('covid1.png')
+    img = Image.open('covid1.PNG')
     st.image(img,width=700)
     st.markdown("<body style='background-color:CornflowerBlue;'><h3 style='text-align: center; color: green;'>Helpline Number for Corona Virus : +91-11-23978046 or 1075</h3></body>", unsafe_allow_html=True)
     st.markdown("<a href='https://www.mohfw.gov.in//'><marquee>Click here for Guidelines by Health Ministry of India</marquee></a>",unsafe_allow_html=True)
