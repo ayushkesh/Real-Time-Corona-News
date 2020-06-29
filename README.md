@@ -1,15 +1,14 @@
 # Real Time Corona News
 
-* A glimpse of the web app:
-
-![GIF](readme_resources/spam-sms-web-app.gif)
-
 1. [ Demo ](#demo)
 2. [ Overview ](#overview)
 3. [ Installation](#install)
 4. [ Run ](#run)
 <a name="demo"></a>
 ### Demo
+
+* A glimpse of the web app:
+![GIF](README/app1.gif)
 #### Link https://coronatech-api.herokuapp.com/
 
 <a name="overview"></a>
@@ -22,7 +21,7 @@ Real Time Corona News project web scraps real time news regarding the COVID-19 e
 <a name="news"></a>
 ### News Paper Headlines
 
-This phase web scrapes the current top news headlines from the Indian Hindi Newspaper. 
+This phase web scrapes the current top news headlines from the Indian Newspaper. 
 * [ Dainik Bhaskar ](https://www.bhaskar.com/coronavirus/)
 * [ Patrika ](https://www.patrika.com/topic/coronavirus/) 
 * [ Navbharat times ](https://navbharattimes.indiatimes.com/coronavirus/trending/74460387.cms)
