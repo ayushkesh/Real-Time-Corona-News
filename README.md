@@ -1,5 +1,9 @@
 # Real Time Corona News
 
+* A glimpse of the web app:
+
+![GIF](readme_resources/spam-sms-web-app.gif)
+
 1. [ Demo ](#demo)
 2. [ Overview ](#overview)
 3. [ Installation](#install)
@@ -13,7 +17,7 @@
 Real Time Corona News project web scraps real time news regarding the COVID-19 epidemic. over all real time newspaper headlines are displayed in a web app deployed in heroku platform.
 
 #### Activities
-. [ Indian Newspaper Headlines ](#news)
+* [ Indian Newspaper Headlines ](#news)
 
 <a name="news"></a>
 ### News Paper Headlines
