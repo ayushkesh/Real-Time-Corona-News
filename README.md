@@ -8,7 +8,7 @@
 ### Demo
 
 * A glimpse of the web app:
-![GIF](README/app1.gif)
+![GIF](app1.gif)
 #### Link https://coronatech-api.herokuapp.com/
 
 <a name="overview"></a>
